@@ -125,3 +125,7 @@ git-pull-request wraps all of these operations into one convenient tool.
 
 .. _hub: https://hub.github.com/
 .. _Pagure: https://pagure.io/pagure
+
+
+
+TESTING CONFIG EDITOR
